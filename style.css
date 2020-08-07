@@ -1,0 +1,26 @@
+input {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font-size: 25px;
+  margin-right: 12px;
+}
+
+button {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+.main {
+  display: flex;
+  align-items: center;
+}
+
+.operator-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 12px;
+}
